@@ -1,0 +1,21 @@
+body {
+	background-color: #35495D;
+}
+
+#main {
+	margin-top: 30px;
+	color: white;
+}
+
+#main input {
+	margin-bottom: 10px;
+}
+
+#result table{
+	color: white;
+}
+
+#main input[type="submit"] {
+	background-color: #22313E;
+	color: white;
+}
